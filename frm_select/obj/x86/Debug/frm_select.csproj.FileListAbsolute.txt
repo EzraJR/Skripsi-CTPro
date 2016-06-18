@@ -1,0 +1,119 @@
+E:\LATIHAN\frm_select\frm_select\bin\Debug\frm_select.exe.config
+E:\LATIHAN\frm_select\frm_select\bin\Debug\frm_select.exe
+E:\LATIHAN\frm_select\frm_select\bin\Debug\frm_select.pdb
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.Form1.resources
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.exe.licenses
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.exe
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.pdb
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.FormHesti.resources
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.ToniPermana.resources
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.yuliafatimah.resources
+E:\LATIHAN\frm_select\frm_select\obj\x86\Debug\frm_select.Fahmi.resources
+E:\LATIHAN\frm_select - Copy\frm_select\bin\Debug\frm_select.exe.config
+E:\LATIHAN\frm_select - Copy\frm_select\obj\x86\Debug\frm_select.exe
+E:\LATIHAN\frm_select - Copy\frm_select\obj\x86\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\bin\Debug\frm_select.exe.config
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\bin\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\bin\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.main.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.exe.licenses
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.importData.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.preprocessing.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febii\frm_select\obj\x86\Debug\frm_select.asosiasi.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\bin\Debug\frm_select.exe.config
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\bin\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\bin\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.asosiasi.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.preprocessing.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.importData.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.main.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.exe.licenses
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.splashScreen.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Febi\frm_select\obj\x86\Debug\frm_select.Utama.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\bin\Debug\frm_select.exe.config
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.asosiasi.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.preprocessing.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.importData.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.main.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.splashScreen.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.Utama.resources
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\obj\x86\Debug\frm_select.exe.licenses
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\bin\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING FP GROWTH\APLIKASI\DM_Teguh\frm_select\bin\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\bin\Debug\frm_select.exe.config
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\bin\Debug\frm_select.exe
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\bin\Debug\frm_select.pdb
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.splashScreen.resources
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Form_Contin.resources
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Form_Utama.resources
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe.licenses
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Import_Data.resources
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Preprocessing_Data.resources
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.form_asosiasi.resources
+E:\SKRIPSI\C#\DATA MAINING CT-PRO\CT-PRO\frm_select\obj\x86\Debug\frm_select.loading.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\bin\Debug\frm_select.exe.config
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.pdb
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\bin\Debug\frm_select.exe
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\bin\Debug\frm_select.pdb
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.loading.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.splashScreen.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.form_asosiasi.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Import_Data.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.main.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Preprocessing_Data.resources
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+E:\SKRIPSI\C#\2016 FEBRUARI\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe.licenses
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\bin\Debug\frm_select.exe.config
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.pdb
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.loading.resources
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.splashScreen.resources
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.form_asosiasi.resources
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Import_Data.resources
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.main.resources
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Preprocessing_Data.resources
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe.licenses
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\bin\Debug\frm_select.exe
+C:\Users\admin\Documents\Skripsi\CTpro\CT-PRO\frm_select\bin\Debug\frm_select.pdb
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\bin\Debug\frm_select.exe.config
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.pdb
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.csprojResolveAssemblyReference.cache
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.loading.resources
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.Properties.Resources.resources
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.splashScreen.resources
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.form_asosiasi.resources
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Import_Data.resources
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.main.resources
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.view.Preprocessing_Data.resources
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.csproj.GenerateResource.Cache
+D:\SkripsiTugasAkhir\CTpro\CT-PRO\frm_select\obj\x86\Debug\frm_select.exe.licenses
